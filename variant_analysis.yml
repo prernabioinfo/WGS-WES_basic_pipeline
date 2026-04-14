@@ -1,0 +1,13 @@
+name: variant_analysis
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+
+dependencies:
+  - seqkit
+  - fastqc
+  - trimmomatic
+  - bwa
+  - samtools
+  - gatk4
