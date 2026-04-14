@@ -10,7 +10,7 @@ python variant_calling_pipeline.py -sample-sheet sample_list.tsv -g /path/to/the
 
 ```
 #### Input file format
-File should contain 2 columns, if you are giving file as input. The first column should contain path to read1 file and the read1 file name and the second column should contain rea2 path along with the file name. 
+File should contain 2 columns, if you are giving file as input. The first column should contain path to read1 file and the read1 file name and the second column should contain read2 path along with the file name. 
 
 ```
 samples.tsv (tab/space/comma separated, col1=R1, col2=R2):
